@@ -13,6 +13,9 @@
             margin:0px;
 			font-family:'Courier New';
         }
+        a {
+        	color:rgba(255, 255, 0, .75);
+        }
 		#header, #body, #footer {
 			background-color:rgba(0, 0, 0, .75);
 			max-width:90%;
@@ -54,11 +57,11 @@
 <body>
 	<div id="header"></div>
 	<div id="body">
-	Title: FirstWebApp<br />
-	Date: February 12, 2019<br />
+	Title: FisheriesLawAndRegulations<br />
+	Date: January 06, 2019<br />
 	Developer: Oliven C. Barcelon<br />
 	Email: ohlivhen@gmail.com
 	</div>
-	<div id="footer" style="text-align:center">Copyright &copy; 2016 <!-- www.semicolon.net16.net --> | Naic Cavite, 4110 Philippines</div>
+	<div id="footer" style="text-align:center">Copyright &copy; 2016 <a href="http://jws-app-bentekwatro1998.7e14.starter-us-west-2.openshiftapps.com">BENTEKWATRO</a> | Naic Cavite, 4110 Philippines</div>
 </body>
 </html>
