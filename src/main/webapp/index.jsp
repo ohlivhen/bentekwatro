@@ -57,7 +57,7 @@
 <body>
 	<div id="header"></div>
 	<div id="body">
-	Title: BENTEKWATRO<br />
+	Title: Hello World<br />
 	Date: January 12, 2019<br />
 	Developer: Oliven C. Barcelon<br />
 	Email: ohlivhen@gmail.com
